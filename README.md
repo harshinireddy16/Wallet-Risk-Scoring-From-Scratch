@@ -26,6 +26,7 @@ These features were chosen for their relevance in identifying active, reliable D
 - High failed transactions → suspicious or poorly managed wallets
 - More Compound use → familiarity with protocol = less risky
 - High activity and gas use → genuine, frequent usage
-
----
+  
+The final output is stored in the file:  
+**`wallet_scores.csv`**
 
